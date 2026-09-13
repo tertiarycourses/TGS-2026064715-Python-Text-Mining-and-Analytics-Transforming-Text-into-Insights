@@ -1,0 +1,15 @@
+.env
+.env.*
+.claude/
+assessment/
+reference/
+courseware/assets/
+courseware/slide_map.csv
+courseware/source-register.md
+courseware/archive/
+labs/**/output/
+labs/**/__pycache__/
+*.pyc
+.DS_Store
+
+courseware/QA-REPORT-v15.md
