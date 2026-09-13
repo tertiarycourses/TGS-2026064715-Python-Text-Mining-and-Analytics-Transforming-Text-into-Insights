@@ -49,6 +49,6 @@ Each lab has its own instructions, synthetic CSV and runnable Python script. Ins
 
 The [courseware folder](courseware/) contains the v15 trainer deck, learner-slide PDF, Learner Guide and Lesson Plan. Detailed lab procedures are in the Learner Guide and lab folders; the slides focus on models, code artifacts, editable charts and diagnostic evidence.
 
-The public repository is for learner-safe materials. Assessment papers, answer keys, private source references, credentials and build tooling are distributed separately through controlled course systems.
+The public repository is for learner-safe materials. Candidate assessment papers are distributed through the LMS-TMS, and answer keys remain trainer-only. Assessment files, private source references, credentials and build tooling are excluded from this public repository.
 
 Provided by **Tertiary Infotech Academy Pte Ltd**.
